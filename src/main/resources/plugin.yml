@@ -1,0 +1,6 @@
+name: JoinLeavePlugin
+version: '${project.version}'
+main: me.shalckercraft.joinleaveplugin.Plugin
+api-version: 1.16
+authors: [ ShalckerCraft ]
+description: Join and leave message
